@@ -1,6 +1,11 @@
 MIT License
 
-Copyright (c) 2020 Lorenzo
+Custom version by Lorenzo Bozza @ https://lorenzobozza.com/
+Easy integration for plain C-AVR
+
+Copyright (c) 2020, Lorenzo Bozza
+
+Copyright (c) 2007, Jim Studt  (original old version - many contributors since)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
